@@ -1,3 +1,20 @@
+## 👨‍💻 Integrantes del Equipo
+
+| Nombre Completo                           | Carnet        |
+|-------------------------------------------|---------------|
+| Alfredo Ezequiel Medrano Martínez         | SMSS025223    |
+| Roberto Carlos Orellana Sorto             | SMSS079623    |
+| Brian José Romero Perla                   | SMSS027223    |
+| Derick Adán Flores Gómez                  | SMSS100423    |
+| Joshua Daniel Reyes Tellez                | SMSS165323    |
+| Daniel Eliseo Martínez Pérez              | SMSS058823    |
+
+---
+
+### ✨ ¡Gracias por visitar nuestro repositorio!
+
+> Siéntete libre de explorar, proponer mejoras o colaborar con nosotros 🚀
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
